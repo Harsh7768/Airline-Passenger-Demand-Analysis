@@ -144,4 +144,4 @@ Airline-Passenger-Demand-Analysis
 
 **Harsh**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Data Analyst | Power BI | SQL | Excel | Python
